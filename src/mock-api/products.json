@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 4 GPS",
+        "brand": "Apple",
+        "price": 399,
+        "description": "Reprehenderit aute sit quis nulla id in et ad sunt. Ut velit ipsum officia sint pariatur. Ad ipsum et quis pariatur veniam aliqua deserunt id quis magna minim. Commodo dolor Lorem in eiusmod ex eiusmod ea consequat velit nulla magna duis cupidatat. Eu mollit labore ullamco anim aliquip veniam est esse reprehenderit. Officia nostrud non tempor minim ipsum aute amet deserunt.",
+        "stars": 3.4
+    },
+    {
+        "id": 2,
+        "name": "JBL Speaker",
+        "brand": "JBL",
+        "price": 399,
+        "description": "Nisi ullamco ullamco dolor laboris sunt laboris incididunt. Deserunt nostrud non quis non dolor laboris. Eu velit labore voluptate quis id pariatur aute fugiat laborum sit. Non exercitation proident cillum occaecat ad ut."
+    },
+    {
+        "id": 3,
+        "name": "Apple iPhone X 128GB",
+        "brand": "Apple",
+        "price": 899,
+        "description": "Ullamco deserunt nisi incididunt cillum dolor aliqua consequat commodo quis laborum occaecat ut minim cupidatat. Aliqua laboris consequat laboris qui laboris adipisicing laborum magna in ipsum velit. Eiusmod ex sunt elit qui voluptate cupidatat velit culpa qui duis. Cillum reprehenderit laboris commodo consequat velit duis. Consectetur non elit amet in labore amet deserunt. Proident ut reprehenderit ad aute culpa tempor cillum nisi officia."
+    },
+    {
+        "id": 4,
+        "name": "Beats Headphones",
+        "brand": "Beats",
+        "price": 459,
+        "description": "Tempor dolore laborum Lorem dolore tempor. Ullamco tempor sint exercitation nulla cupidatat esse fugiat veniam. Minim irure laborum tempor non sint incididunt est est dolore et sint quis elit. Lorem nostrud adipisicing magna ipsum labore esse officia laborum sunt ut elit culpa irure proident."
+    },
+    {
+        "id": 5,
+        "name": "Apple Watch Series 4 GPS",
+        "brand": "Apple",
+        "price": 399,
+        "description": "Reprehenderit aute sit quis nulla id in et ad sunt. Ut velit ipsum officia sint pariatur. Ad ipsum et quis pariatur veniam aliqua deserunt id quis magna minim. Commodo dolor Lorem in eiusmod ex eiusmod ea consequat velit nulla magna duis cupidatat. Eu mollit labore ullamco anim aliquip veniam est esse reprehenderit. Officia nostrud non tempor minim ipsum aute amet deserunt.",
+        "stars": 3.4
+    },
+    {
+        "id": 6,
+        "name": "JBL Speaker",
+        "brand": "JBL",
+        "price": 399,
+        "description": "Nisi ullamco ullamco dolor laboris sunt laboris incididunt. Deserunt nostrud non quis non dolor laboris. Eu velit labore voluptate quis id pariatur aute fugiat laborum sit. Non exercitation proident cillum occaecat ad ut."
+    },
+    {
+        "id": 7,
+        "name": "Apple iPhone X 128GB",
+        "brand": "Apple",
+        "price": 899,
+        "description": "Ullamco deserunt nisi incididunt cillum dolor aliqua consequat commodo quis laborum occaecat ut minim cupidatat. Aliqua laboris consequat laboris qui laboris adipisicing laborum magna in ipsum velit. Eiusmod ex sunt elit qui voluptate cupidatat velit culpa qui duis. Cillum reprehenderit laboris commodo consequat velit duis. Consectetur non elit amet in labore amet deserunt. Proident ut reprehenderit ad aute culpa tempor cillum nisi officia."
+    },
+    {
+        "id": 8,
+        "name": "Beats Headphones",
+        "brand": "Beats",
+        "price": 459,
+        "description": "Tempor dolore laborum Lorem dolore tempor. Ullamco tempor sint exercitation nulla cupidatat esse fugiat veniam. Minim irure laborum tempor non sint incididunt est est dolore et sint quis elit. Lorem nostrud adipisicing magna ipsum labore esse officia laborum sunt ut elit culpa irure proident."
+    }
+]

@@ -1,0 +1,124 @@
+.filters-fields {
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #ffffff;
+    box-shadow: var(--box-shadow);
+    border-radius: 8px;
+}
+
+.filters-mobile {
+    display: none;
+}
+
+.btn-clear-filters {
+    width: 100%;
+}
+
+.order {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order > div:last-child {
+    display: flex;
+    align-items: center;
+}
+.order select {
+    border: none;
+    margin: 5px;
+    box-shadow: var(--box-shadow);    
+}
+.order span {
+    background: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: var(--box-shadow);
+}
+
+.search {
+    position: relative;
+}
+.search > input {
+    margin: 1rem 0;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: var(--box-shadow);
+}
+.search > div:last-child {    
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    color: #606060;
+}
+
+.pagination {
+    width: 100%;
+    justify-content: center;
+}
+
+.pagination .prev, .pagination .next {
+    padding: 5px;
+    margin: 5px;
+    background: #EDEDED;
+    border-radius: 25px;
+    color: #606060;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.pagination .pages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ededed;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.pagination .page {
+    cursor: pointer;
+    transition: .3s;
+    width: 20px;
+    height: 20px;
+    margin: 3px;
+    background: #ededed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.pagination .page.active {
+    background: #606060;
+    color: #EDEDED;
+}
+
+.pagination .prev:hover, .pagination .next:hover, .pagination .page:hover {
+    background: #606060;
+    color: #EDEDED;
+    border-radius: 25px;
+}
+
+@media (max-width: 1200px) {
+    .filters {
+        display: none;
+    }
+    .filters-mobile {
+        cursor: pointer;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-bottom: 1rem;
+    }
+    .filters-mobile .accordion {
+        width: 100%;
+    }
+    .filters-mobile .accordion > div:first-child {
+        text-align: end;
+    }
+}
